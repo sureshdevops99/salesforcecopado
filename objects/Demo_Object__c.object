@@ -163,7 +163,6 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
-	
         <fullName>First_Field__c</fullName>
         <externalId>false</externalId>
         <label>First Field</label>
